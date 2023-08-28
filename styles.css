@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(128, 11, 11);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 900px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: white;
+}
+
+#gridButton {
+    margin: 0 auto;
+    padding: 5px 25px;
+    margin: 50px;
+    background-color: gainsboro;
+    border-radius: 7px;
+}
